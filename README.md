@@ -1,0 +1,2 @@
+# DailyJS-TipCalculator
+Tip Calculator
